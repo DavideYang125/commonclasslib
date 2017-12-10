@@ -1,0 +1,6 @@
+F:\mycode\ToolKit\ToolKit\bin\Debug\ToolKit.dll
+F:\mycode\ToolKit\ToolKit\bin\Debug\ToolKit.pdb
+F:\mycode\ToolKit\ToolKit\obj\Debug\ToolKit.csprojResolveAssemblyReference.cache
+F:\mycode\ToolKit\ToolKit\obj\Debug\ToolKit.csproj.CoreCompileInputs.cache
+F:\mycode\ToolKit\ToolKit\obj\Debug\ToolKit.dll
+F:\mycode\ToolKit\ToolKit\obj\Debug\ToolKit.pdb
